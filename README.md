@@ -25,8 +25,16 @@ Welcome to the Rock, Paper, Scissors game! This is a simple web-based implementa
 
 ## Preview
 
-![Preview](![image](https://github.com/aarobhs087/Rock-Scissor-Paper-Game/assets/165626806/dc9fbaba-6173-47e8-903a-213ce1295db2)
-)
+![image](https://github.com/aarobhs087/Rock-Scissor-Paper-Game/assets/165626806/8da1c0e4-3740-473c-8094-03a2e97d59d4)
+
+![image](https://github.com/aarobhs087/Rock-Scissor-Paper-Game/assets/165626806/d2a0b156-c154-4239-921c-d6956f8ef39c)
+
+![image](https://github.com/aarobhs087/Rock-Scissor-Paper-Game/assets/165626806/11cda185-3267-4598-8046-345a1b9e60cb)
+
+![image](https://github.com/aarobhs087/Rock-Scissor-Paper-Game/assets/165626806/fe372b39-fe09-4243-ac43-7883f4ea35de)
+
+
+
 
 ## Demo
 
