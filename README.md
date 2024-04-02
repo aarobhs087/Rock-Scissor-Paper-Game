@@ -25,16 +25,13 @@ Welcome to the Rock, Paper, Scissors game! This is a simple web-based implementa
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](![image](https://github.com/aarobhs087/Rock-Scissor-Paper-Game/assets/165626806/dc9fbaba-6173-47e8-903a-213ce1295db2)
+)
 
 ## Demo
 
-You can see a live demo of the game [here](https://example.com).
+You can see a live demo of the game [here](https://aarobhs087.github.io/Rock-Scissor-Paper-Game/).
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
